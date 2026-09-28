@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ CLICKHEAD
+# CLICKHEAD
 
 ### HTTP Traffic Testing & Load Diagnostics
 
